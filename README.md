@@ -5,7 +5,7 @@
 We are epilot, an innovative global scale-up from Cologne.
 Come build the leading ecosystem for energy ecommerce with us!
 
-Check out [epilot.cloud/en/career](https://epilot.cloud/en/career/)
+Check out: [epilot.cloud/en/career](https://epilot.cloud/en/career/)
 
 ## Remote
 
