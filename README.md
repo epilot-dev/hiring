@@ -2,6 +2,9 @@
 
 <p align="center"><img alt="epilot" src="./epilot-flag.svg" width="300"></p>
 
+## Who we are
+
+
 We are epilot, an innovative global scale-up from Cologne.
 Come build the leading ecosystem for energy ecommerce with us!
 
