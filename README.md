@@ -1,6 +1,6 @@
 <h1 align="center">Jobs at epilot</h1>
 
-<p align="center"><img alt="epilot" src="https://raw.githubusercontent.com/eterima/hiring/a40eac9b355d301016b86d898ea584f43f558c30/epilot-flag.svg" width="300"></p>
+<p align="center"><img alt="epilot" src="./epilot-flag.svg" width="300"></p>
 
 We are epilot, an innovative global scale-up from Cologne.
 Come build the leading ecosystem for energy ecommerce with us!
