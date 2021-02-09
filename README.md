@@ -1,6 +1,6 @@
 <h1 align="center">Jobs at epilot</h1>
 
-<p align="center"><img alt="epilot" src="./epilot-logo.svg" width="200"></p>
+<p align="center"><img alt="epilot" src=".epilot-flag.svg" width="200"></p>
 
 We are epilot, an innovative global scale-up from Cologne.
 Come build the leading ecosystem for energy ecommerce with us!
