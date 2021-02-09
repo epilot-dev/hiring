@@ -7,11 +7,18 @@ Come build the leading ecosystem for energy ecommerce with us!
 
 Check out [epilot.cloud/en/career](https://epilot.cloud/en/career/)
 
-## Remote
+<!-- toc -->
+
+- [Remote first](#remote-first)
+- [Contact us](#contact-us)
+
+<!-- tocstop -->
+
+## Remote first
 
 We offer fully remote opportunities, but also support relocation to Cologne, Germany.
 
-## Contact
+## Contact us
 
 [careers@epilot.cloud](mailto:careers@epilot.cloud)
 
