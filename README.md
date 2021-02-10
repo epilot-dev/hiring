@@ -23,7 +23,7 @@ Already courious? Check out [epilot.cloud/en/career](https://epilot.cloud/en/car
 
 <!-- toc -->
 
-- [Remote first](#remote-first)
+- [Remote first](#🌎-remote-first)
 - [Our tech stack](#our-tech-stack)
 - [More reasons to join](#more-reasons-to-join)
 - [How to get hired at epilot ](#how-to-get-hired-at-epilot)
