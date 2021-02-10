@@ -28,12 +28,12 @@ Already courious? Check out [epilot.cloud/en/career](https://epilot.cloud/en/car
 - [More reasons to join](#more-reasons-to-join)
 - [How to get hired at epilot ](#how-to-get-hired-at-epilot)
 - [Even more to read](#even-more-to-read)
-- [Contact us](#contact-us)
+- [Contact](#contact-us)
 
 
 <!-- tocstop -->
 
-## Remote first 
+## 🌎 Remote first 
 
 Even though our HQ is based in Cologne (Germany), we offer fully remote opportunities. But if you don´t want to miss out our cozy office enviroment, we are also happy to support relocation to Cologne.
 
@@ -57,14 +57,32 @@ From the people side you can expect working along with highly motivated and tale
 
 If you need more reasons to join feel free to check out our promise to all employees at [promise.epilot.cloud](https://promise.epilot.cloud) 
 
-## 🚀 How to get hired at epilot 
+## 🚀 How to get hired at epilot
+
+You want to know what to expect from our hiring process? Check out the step-by-step guide on ["How to get hired at epilot"](https://dev.to/epilot/how-to-get-hired-at-epilot-step-by-step-guide-4ei1) on dev.to
+
+In short you can expect the steps showed in the illustration below:
+<p align="center"><img alt="epilot" src="./hiring-process.png" width="600"></p>
+
 
 ## 🤓 Even more to read
 
+Want to learn more about epilot? Check out our website: [epilot.cloud](https://epilot.cloud) 
 
-## 📧 Contact us
+To get more insights on tech topics but also people topics check out our blog at dev.to:[dev.to/epilot](https://dev.to/epilot) 
+
+For most recent updates on our product and business check out and follow our LinkedIn profile (sorry mostly in 🇩🇪 german since our main audience is from 🇩🇪):[epilot LinkedIn-Profile](https://www.linkedin.com/company/epilot/) 
+
+If you didn´t take a look on our promise page already mentioned above - here we go: [promise.epilot.cloud](https://promise.epilot.cloud) 
+
+## 📧 Contact 
+
+Need more information or just want to reach out directly to us? 
 
 [careers@epilot.cloud](mailto:careers@epilot.cloud)
+
+We are looking forward to welcome new epilots to join our crew!
+
 
 <p align="center"><img alt="epilot" src="./epilot-hiring.png" width="250"></p>
 
