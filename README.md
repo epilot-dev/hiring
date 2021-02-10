@@ -83,6 +83,7 @@ Need more information or just want to reach out directly to us?
 
 We are looking forward to welcome new epilots to join our crew!
 
+<p align="center"><img alt="epilot" src="./Karneval-1-1024x693.png" width="250"></p>
 
 <p align="center"><img alt="epilot" src="./epilot-hiring.png" width="250"></p>
 
