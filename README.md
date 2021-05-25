@@ -89,36 +89,3 @@ We are looking forward to welcome new epilots to join our crew!
 <p align="center"><img alt="epilot" src="./Karneval-1-1024x693.png" width="600"></p>
 
 <p align="center"><img alt="epilot" src="./epilot-hiring.png" width="250"></p>
-
-
-      <div id="recruitee-careers"></div>
-      <script type="text/javascript" src="https://d10zminp1cyta8.cloudfront.net/widget.js"></script>
-      <script type="text/javascript">
-        var widget = new RTWidget({ 
- "companies": [
-   44638
- ],
- "detailsMode": "popup",
- "language": "en",
- "departmentsFilter": [
-   "IT",
-   "Product"
- ],
- "themeVars": {
-   "primary": "#1999e3",
-   "secondary": "#000",
-   "text": "#5c6f78",
-   "textDark": "#37474f",
-   "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif;",
-   "baseFontSize": "16px"
- },
- "flags": {
-   "showLocation": true,
-   "showCountry": true,
-   "showCity": true,
-   "groupByLocation": false,
-   "groupByDepartment": true,
-   "groupByCompany": false
- }
- });
-      </script>
