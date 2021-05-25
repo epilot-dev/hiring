@@ -50,6 +50,8 @@ Our app is running on AWS and we are currently taking our monolithic application
 
 If you want to learn more about our tech stack you can review our tech stack at [techradar.epilot.io](https://techradar.epilot.io/index.html?sheetId=https%3A%2F%2Ftechradar.epilot.io%2Fradar.csv)
 
+And if you want to learn more about our engineering principles check this out: https://github.com/epilot-dev/engineering-principles
+
 ## 🤩 More reasons to join
 
 There are plenty good reasons to join epilot. Looking at the engineering side there is  great potential to set trajectory in terms of technology, while taking advantage of a modern tech stack. Since we are a SaaS company, working in software developement means working on the core of our business and having a meaningful impact on the growth of our fast growing scale up. 
