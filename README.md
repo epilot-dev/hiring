@@ -2,8 +2,9 @@
 
 <p align="center"><img alt="epilot" src="./assets/epilot-flag.svg" width="500"></p>
 
-## 🦄 Who we are
-<p align="center"><img alt="epilot" src="./assets/75f8389e.jpg" width="600"></p>
+## 🦄 Who we are 
+
+<p align="center"><img alt="epilot" src="/Jobs GIF-downsized_large.gif" width="600"></p>
 
 We are epilot, an innovative global scale-up from Cologne.
 Come build the leading ecosystem for energy ecommerce with us!
@@ -15,6 +16,9 @@ In the end of 2020  we were already 80+ epilots (that´s how we like to call our
 Our key to success? We build on a founders team with a decade on expertise in growing successful businesses, a bunch of experts from software engineering, product management and sales, a great product-market fit and reputable shareholders. But most important: in the end it is of course all the talented people at epilot and the great teamspirit which makes epilot a great company - both for our employees and our customers.
 
 To further scale our product we are constantly looking for exceptional talents to join our team!
+
+<p align="center"><img alt="epilot" src="./75f8389e.jpg" width="600"></p>
+
 
 
 Already courious? Check out [epilot.cloud/en/career](https://epilot.cloud/en/career/) for our open vacancies! Want to find out more? Read on!
@@ -45,6 +49,8 @@ We know Cologne is not Berlin, Hamburg or Munich - Cologne is even better! If yo
 Our app is running on AWS and we are currently taking our monolithic application apart into microservices. Our focus on the technology side is moving towards serverless applications (e.g. powered by AWS API gateway, SNS, SQS, Lambda, DynamoDB, etc.) built in React/JavaScript and TypeScript.
 
 If you want to learn more about our tech stack you can review our tech stack at [techradar.epilot.io](https://techradar.epilot.io/index.html?sheetId=https%3A%2F%2Ftechradar.epilot.io%2Fradar.csv)
+
+And if you want to learn more about our engineering principles check this out: https://github.com/epilot-dev/engineering-principles
 
 ## 🤩 More reasons to join
 
@@ -85,4 +91,3 @@ We are looking forward to welcome new epilots to join our crew!
 <p align="center"><img alt="epilot" src="./assets/Karneval-1-1024x693.png" width="600"></p>
 
 <p align="center"><img alt="epilot" src="./assets/epilot-hiring.png" width="250"></p>
-
