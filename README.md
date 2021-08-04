@@ -1,4 +1,4 @@
-<h1 align="center">Jobs at epilot</h1>
+<h1 align="center">Careers at epilot</h1>
 
 <p align="center"><img alt="epilot" src="./assets/epilot-flag.svg" width="500"></p>
 
