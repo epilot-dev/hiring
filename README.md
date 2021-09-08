@@ -17,8 +17,6 @@ Our key to success? We build on a founders team with a decade on expertise in gr
 
 To further scale our product we are constantly looking for exceptional talents to join our team!
 
-<p align="center"><img alt="epilot" src="./75f8389e.jpg" width="600"></p>
-
 
 
 Already courious? Check out [epilot.cloud/en/career](https://epilot.cloud/en/career/) for our open vacancies! Want to find out more? Read on!
