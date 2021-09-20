@@ -86,6 +86,6 @@ Contact us at: [careers@epilot.cloud](mailto:careers@epilot.cloud)
 
 We are looking forward to welcome new epilots to join our crew!
 
-<p align="center"><img alt="epilot" src="./assets/Karneval-1-1024x693.png" width="600"></p>
+<p align="center"><img alt="epilot" src="https://epilot.cloud/wp-content/uploads/2021/08/IMG_2533-768x576.png.webp" width="600"></p>
 
 <p align="center"><img alt="epilot" src="./assets/epilot-hiring.png" width="250"></p>
