@@ -1,6 +1,6 @@
 <h1 align="center">Careers at epilot</h1>
 
-<p align="center"><img alt="epilot" src="./assets/epilot-flag.svg" width="500"></p>
+<p align="center"><img alt="epilot" src="./assets/epilot_Logo_nur_Icon_regenbogen_CMYK_angepasst.png width="500"></p>
 
 ## 🦄 Who we are 
 
