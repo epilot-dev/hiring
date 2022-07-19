@@ -86,5 +86,4 @@ Contact us at: [careers@epilot.cloud](mailto:careers@epilot.cloud)
 
 We are looking forward to welcome new epilots to join our crew!
 
-
 <p align="center"><img alt="epilot" src="/epilot_Logo_nur_Icon_regenbogen_RGB_angepasst.svg" width="200"></p>
