@@ -88,4 +88,4 @@ We are looking forward to welcome new epilots to join our crew!
 
 <p align="center"><img alt="epilot" src="https://epilot.cloud/wp-content/uploads/2021/08/IMG_2533-768x576.png.webp" width="600"></p>
 
-<p align="center"><img alt="epilot" src="./assets/epilot-hiring.png" width="250"></p>
+<p align="center"><img alt="epilot" src=""/epilot_Logo_nur_Icon_regenbogen_RGB_angepasst.svg" width="250"></p>
