@@ -1,6 +1,6 @@
 <h1 align="center">Careers at epilot</h1>
 
-<p align="center"><img alt="epilot" src="./assets/epilot_Logo_nur_Icon_regenbogen_CMYK_angepasst.png width="500"></p>
+<p align="center"><img alt="epilot" src="[./assets/epilot_Logo_nur_Icon_regenbogen_CMYK_angepasst.png](https://github.com/eterima/careers-at-epilot/blob/main/epilot_Logo_nur_Icon_regenbogen_CMYK_angepasst.png?raw=true) width="500"></p>
 
 ## 🦄 Who we are 
 
