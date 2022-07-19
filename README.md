@@ -1,20 +1,22 @@
-<h1 align="center">Jobs at epilot</h1>
+<h1 align="center">Careers at epilot</h1>
 
-<p align="center"><img alt="epilot" src="./assets/epilot-flag.svg" width="500"></p>
+<p align="center"><img alt="epilot" src="/epilot_Logo_nur_Icon_regenbogen_RGB_angepasst.svg" width="500"></p>
 
-## 🦄 Who we are
-<p align="center"><img alt="epilot" src="./assets/75f8389e.jpg" width="600"></p>
+## 🦄 Who we are 
+
+<p align="center"><img alt="epilot" src="/Jobs GIF-downsized_large.gif" width="600"></p>
 
 We are epilot, an innovative global scale-up from Cologne.
 Come build the leading ecosystem for energy ecommerce with us!
 
 Founded in 2017, go-live of our app in 2018. Our vision is that companies can sell even complex products online as easily as a pair of shoes.
 
-In the end of 2020  we were already 80+ epilots (that´s how we like to call ourselves)  working on our common vision - number still counting. To date our app is already helping 75+ customers from the energy market to make their lives easier selling their complex energy products online. Even though the energy market is our starting point, our long term vision is much broader: we want to enable companies from any markets to sell their complex products with our app (e.g. insurance, real-estate etc.) as easy as a pair of shoes online.
+In the end of 2021  we were already 85+ epilots (that´s how we like to call ourselves)  working on our common vision - number still counting. To date our app is already helping 100+ customers from the energy market to make their lives easier selling their complex energy products online. Even though the energy market is our starting point, our long term vision is much broader: we want to enable companies from any markets to sell their complex products with our app (e.g. insurance, real-estate etc.) as easy as a pair of shoes online.
 
 Our key to success? We build on a founders team with a decade on expertise in growing successful businesses, a bunch of experts from software engineering, product management and sales, a great product-market fit and reputable shareholders. But most important: in the end it is of course all the talented people at epilot and the great teamspirit which makes epilot a great company - both for our employees and our customers.
 
 To further scale our product we are constantly looking for exceptional talents to join our team!
+
 
 
 Already courious? Check out [epilot.cloud/en/career](https://epilot.cloud/en/career/) for our open vacancies! Want to find out more? Read on!
@@ -44,7 +46,9 @@ We know Cologne is not Berlin, Hamburg or Munich - Cologne is even better! If yo
 
 Our app is running on AWS and we are currently taking our monolithic application apart into microservices. Our focus on the technology side is moving towards serverless applications (e.g. powered by AWS API gateway, SNS, SQS, Lambda, DynamoDB, etc.) built in React/JavaScript and TypeScript.
 
-If you want to learn more about our tech stack you can review our tech stack at [techradar.epilot.io](https://techradar.epilot.io/index.html?sheetId=https%3A%2F%2Ftechradar.epilot.io%2Fradar.csv)
+If you want to learn more about our tech stack you can review our tech stack in our Developer documentation aka. [Dev Center](https://docs.epilot.io/docs/architecture/overview)
+
+And if you want to learn more about our engineering principles check this out: https://github.com/epilot-dev/engineering-principles
 
 ## 🤩 More reasons to join
 
@@ -61,7 +65,7 @@ If you need more reasons to join feel free to check out our promise to all emplo
 You want to know what to expect from our hiring process? Check out the step-by-step guide on ["How to get hired at epilot"](https://dev.to/epilot/how-to-get-hired-at-epilot-step-by-step-guide-4ei1) on dev.to
 
 In short you can expect the steps shown in the illustration below:
-<p align="center"><img alt="epilot" src="./assets/hiring-process.png" width="600"></p>
+<p align="center"><img alt="epilot" src="/Bildschirmfoto 2022-07-19 um 15.19.59.png" width="600"></p>
 
 
 ## 🤓 Even more to read
@@ -82,5 +86,4 @@ Contact us at: [careers@epilot.cloud](mailto:careers@epilot.cloud)
 
 We are looking forward to welcome new epilots to join our crew!
 
-<p align="center"><img alt="epilot" src="./assets/epilot-hiring.png" width="250"></p>
-
+<p align="center"><img alt="epilot" src="/epilot_Logo_nur_Icon_regenbogen_RGB_angepasst.svg" width="200"></p>
