@@ -46,7 +46,7 @@ We know Cologne is not Berlin, Hamburg or Munich - Cologne is even better! If yo
 
 Our app is running on AWS and we are currently taking our monolithic application apart into microservices. Our focus on the technology side is moving towards serverless applications (e.g. powered by AWS API gateway, SNS, SQS, Lambda, DynamoDB, etc.) built in React/JavaScript and TypeScript.
 
-If you want to learn more about our tech stack you can review our tech stack at [techradar.epilot.io](https://techradar.epilot.io/index.html?sheetId=https%3A%2F%2Ftechradar.epilot.io%2Fradar.csv)
+If you want to learn more about our tech stack you can review our tech stack in our  [Dev Center](https://docs.epilot.io/docs/architecture/overview)
 
 And if you want to learn more about our engineering principles check this out: https://github.com/epilot-dev/engineering-principles
 
