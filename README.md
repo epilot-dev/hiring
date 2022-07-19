@@ -65,7 +65,7 @@ If you need more reasons to join feel free to check out our promise to all emplo
 You want to know what to expect from our hiring process? Check out the step-by-step guide on ["How to get hired at epilot"](https://dev.to/epilot/how-to-get-hired-at-epilot-step-by-step-guide-4ei1) on dev.to
 
 In short you can expect the steps shown in the illustration below:
-<p align="center"><img alt="epilot" src="./assets/hiring-process.png" width="600"></p>
+<p align="center"><img alt="epilot" src="/Bildschirmfoto 2022-07-19 um 15.19.59.png" width="600"></p>
 
 
 ## 🤓 Even more to read
@@ -86,6 +86,5 @@ Contact us at: [careers@epilot.cloud](mailto:careers@epilot.cloud)
 
 We are looking forward to welcome new epilots to join our crew!
 
-<p align="center"><img alt="epilot" src="https://epilot.cloud/wp-content/uploads/2021/08/IMG_2533-768x576.png.webp" width="600"></p>
 
-<p align="center"><img alt="epilot" src=""/epilot_Logo_nur_Icon_regenbogen_RGB_angepasst.svg" width="250"></p>
+<p align="center"><img alt="epilot" src="/epilot_Logo_nur_Icon_regenbogen_RGB_angepasst.svg" width="200"></p>
