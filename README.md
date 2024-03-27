@@ -44,7 +44,7 @@ We know Cologne is not Berlin, Hamburg or Munich - Cologne is even better! If yo
 
 ## 🖥 Our tech stack
 
-Our app is running on AWS and we are currently taking our monolithic application apart into microservices. Our focus on the technology side is moving towards serverless applications (e.g. powered by AWS API gateway, SNS, SQS, Lambda, DynamoDB, etc.) built in React/JavaScript and TypeScript.
+Our app is built on AWS consisting of serverless backend microservices and single-page-app (SPA) microfrontends using modern frameworks like React and Svelte. Our focus on the technology side is to build high quality API-first products to create a platform that helps us become the top collaboration ecosystem in the energy space.
 
 If you want to learn more about our tech stack you can review our tech stack in our Developer documentation aka. [Dev Center](https://docs.epilot.io/docs/architecture/overview)
 
