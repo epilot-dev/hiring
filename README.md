@@ -56,7 +56,7 @@ There are plenty good reasons to join epilot. Looking at the engineering side th
 
 From the people side you can expect working along with highly motivated and talented people with diverse professional and personal background. As developer you will work in multidisciplinary product squads and subscribe to agile methodologies. As human being you will get in touch with awesome people from 18+ nationalities.
 
-<p align="center"><img alt="epilot" src="./assets/diversity.png" width="600"></p>
+<p align="center"><img alt="epilot" src="./assets/diversity.png" width="1000"></p>
 
 If you need more reasons to join feel free to check out our promise to all employees at [promise.epilot.cloud](https://promise.epilot.cloud)
 
@@ -65,7 +65,7 @@ If you need more reasons to join feel free to check out our promise to all emplo
 You want to know what to expect from our hiring process? Check out the step-by-step guide on ["How to get hired at epilot"](https://dev.to/epilot/how-to-get-hired-at-epilot-step-by-step-guide-4ei1) on dev.to
 
 In short you can expect the steps shown in the illustration below:
-<p align="center"><img alt="epilot" src="/Bildschirmfoto 2022-07-19 um 15.19.59.png" width="600"></p>
+<p align="center"><img alt="epilot" src="/assets/Application.png" width="600"></p>
 
 
 ## 🤓 Even more to read
