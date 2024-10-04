@@ -11,7 +11,7 @@ Come build the leading ecosystem for energy ecommerce with us!
 
 Founded in 2017, go-live of our app in 2018. Our vision is that companies can sell even complex products online as easily as a pair of shoes.
 
-Currently we have 30+ engineers working on our common vision - number still counting. To date our app is already helping 130+ customers from the energy market to make their lives easier selling their complex energy products online. 
+Currently we have 38+ engineers working on our common vision - number still counting. To date our app is already helping 150+ customers from the energy market to make their lives easier selling their complex energy products online. 
 
 Our key to success? We build on a founders team with a decade on expertise in growing successful businesses, a bunch of experts from software engineering, product management and sales, a great product-market fit and reputable shareholders. But most important: in the end it is of course all the talented people at epilot and the great teamspirit which makes epilot a great company - both for our employees and our customers.
 
