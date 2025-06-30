@@ -19,7 +19,7 @@ To further scale our product we are constantly looking for exceptional talents t
 
 
 
-Already courious? Check out [epilot.cloud/en/career](https://epilot.cloud/en/career/) for our open vacancies! Want to find out more? Read on!
+Already courious? Check out [epilot.cloud/en/company/careers](https://www.epilot.cloud/en/company/careers) for our open vacancies! Want to find out more? Read on!
 
 ##  📚 Further readings
 
