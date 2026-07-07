@@ -11,7 +11,7 @@ Come build the leading ecosystem for energy ecommerce with us!
 
 Founded in 2017, go-live of our app in 2018. Our vision is that companies can sell even complex products online as easily as a pair of shoes.
 
-Currently we have 38+ engineers working on our common vision - number still counting. To date our app is already helping 150+ customers from the energy market to make their lives easier selling their complex energy products online. 
+Currently we have 40+ engineers working on our common vision - number still counting. To date our app is already helping 200+ customers from the energy market to make their lives easier selling their complex energy products online. 
 
 Our key to success? We build on a founders team with a decade on expertise in growing successful businesses, a bunch of experts from software engineering, product management and sales, a great product-market fit and reputable shareholders. But most important: in the end it is of course all the talented people at epilot and the great teamspirit which makes epilot a great company - both for our employees and our customers.
 
@@ -19,7 +19,7 @@ To further scale our product we are constantly looking for exceptional talents t
 
 
 
-Already courious? Check out [epilot.cloud/en/company/careers](https://www.epilot.cloud/en/company/careers) for our open vacancies! Want to find out more? Read on!
+Already courious? Check out [epilot.cloud/en/career](https://epilot.cloud/en/career/) for our open vacancies! Want to find out more? Read on!
 
 ##  📚 Further readings
 
@@ -54,7 +54,7 @@ And if you want to learn more about our engineering principles check this out: h
 
 There are plenty good reasons to join epilot. Looking at the engineering side there is  great potential to set trajectory in terms of technology, while taking advantage of a modern tech stack. Since we are a SaaS company, working in software developement means working on the core of our business and having a meaningful impact on the growth of our fast growing scale up.
 
-From the people side you can expect working along with highly motivated and talented people with diverse professional and personal background. As developer you will work in multidisciplinary product squads and subscribe to agile methodologies. As human being you will get in touch with awesome people from 18+ nationalities.
+From the people side you can expect working along with highly motivated and talented people with diverse professional and personal background. As developer you will work in multidisciplinary product squads and subscribe to agile methodologies. As human being you will get in touch with awesome people from 30+ nationalities.
 
 <p align="center"><img alt="epilot" src="./assets/diversity.png" width="1000"></p>
 
@@ -73,6 +73,8 @@ In short you can expect the steps shown in the illustration below:
 Want to learn more about epilot? Check out our website: [epilot.cloud](https://epilot.cloud)
 
 To get more insights on tech topics but also people topics check out our blog at dev.to:[dev.to/epilot](https://dev.to/epilot)
+
+Want to get to know what to expect being a product engineer @ epilot: [Read here](https://expectation.epilot.dev/)
 
 For most recent updates on our product and business check out and follow our LinkedIn profile (sorry mostly in 🇩🇪 German since our main audience is from 🇩🇪):[epilot LinkedIn-Profile](https://www.linkedin.com/company/epilot/)
 
